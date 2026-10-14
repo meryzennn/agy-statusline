@@ -69,7 +69,7 @@ If you are chatting with an AI Agent (Antigravity CLI, Claude Code, Cursor, Roo 
 
 ```text
 Tolong pasangkan statusline Antigravity CLI (agy) dari repo ini ke environment saya.
-Repo: https://github.com/<your-username>/agy-statusline (atau folder lokal ini)
+Repo: https://github.com/meryzennn/agy-statusline (atau folder lokal ini)
 Ikuti panduan lengkap di AGENT_INSTRUCTIONS.md dan jalankan self-test untuk memverifikasi.
 ```
 
